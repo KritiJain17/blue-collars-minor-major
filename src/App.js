@@ -1,5 +1,9 @@
 function App() {
-  return null;
+  return (
+    <div>
+      Hey mac user
+    </div>
+  )
 }
 
 export default App;
