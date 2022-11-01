@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      Hey mac user
+      Hey mac user-2
     </div>
   )
 }
