@@ -4,6 +4,7 @@ import "./styles.modal.css";
 const Modal = ({ header = "", children }) => {
   return (
     <div className="modalContainer">
+      
       <div className="modalHeader">{header}</div>
 
       {children.map((value, index) => {
