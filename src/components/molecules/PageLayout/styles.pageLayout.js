@@ -21,4 +21,5 @@ export const MainContainer = styled(Box)`
   margin: 0px;
   height: ${(props) => props.height};
   width: 100%;
+  
 `;
