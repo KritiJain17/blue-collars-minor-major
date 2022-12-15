@@ -1,0 +1,31 @@
+.modalContainer{
+    background-color: #7DE5ED;
+    width: 40%;
+    min-width: max-content;
+    padding: 20px; 
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalHeader{
+    font-size: 35px;
+    padding: 10px;
+
+}
+
+.modalTile{
+    width: 100%;
+    font-size: 25px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modalTile:hover{
+    background-color: #5DA7DB;
+    cursor: pointer;
+}

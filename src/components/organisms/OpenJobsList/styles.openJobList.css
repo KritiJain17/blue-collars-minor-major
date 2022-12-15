@@ -1,0 +1,31 @@
+.jobList-tile{
+    padding: 15px;
+    margin: 50px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.jobList-tile-header{
+    padding: 15px;
+    margin: 50px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+.jobList-column{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apply-button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: aqua;
+}
